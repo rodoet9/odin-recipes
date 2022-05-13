@@ -1,0 +1,29 @@
+.fundal {
+    background-image: url('food.jpg');
+}
+
+.hometitle {
+
+    color: navy;
+    background-color: rgb(201, 136, 89);
+    text-align: center;
+    font-size: 60px;
+    text-transform: uppercase;
+    width: 500px;
+    border-radius: 50px;
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+}
+
+.space {
+    width: 50px;
+    height: auto;
+    display: inline-block;
+}
+
+.butoane {
+    text-align: center;
+    font-size: 36px;
+    background-color: sandybrown;
+    border-radius: 50px;
+}
