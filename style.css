@@ -4,8 +4,8 @@
 
 .hometitle {
 
-    color: #abc7a3;
-    background-color: rgb(201, 136, 89);
+    /* color: #52202093 */
+    /* background-color: rgb(201, 136, 89); */
     text-align: center;
     font-size: 90px;
     text-transform: uppercase;
@@ -13,6 +13,7 @@
     border-radius: 50px;
     border-top: 10px solid;
     border-bottom: 10px solid;
+
 }
 
 .space {
@@ -24,10 +25,20 @@
 .butoane {
     text-align: center;
     font-size: 50px;
-    color: #abc7a3;
-    background-color: rgb(201, 136, 89);
+    color: #52202093;
+    /* background-color: rgb(201, 136, 89); */
     border-radius: 50px;
     width: 500px;
-    height: 70px;
-    border-bottom: 10px solid;
+    height: 80px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    /* background-color: black; */
+    border-bottom: 5px solid;
 }
