@@ -4,10 +4,10 @@
 
 .hometitle {
 
-    color: navy;
+    color: #abc7a3;
     background-color: rgb(201, 136, 89);
     text-align: center;
-    font-size: 60px;
+    font-size: 90px;
     text-transform: uppercase;
     width: 500px;
     border-radius: 50px;
@@ -16,14 +16,18 @@
 }
 
 .space {
-    width: 50px;
+    width: 70px;
     height: auto;
     display: inline-block;
 }
 
 .butoane {
     text-align: center;
-    font-size: 36px;
-    background-color: sandybrown;
+    font-size: 50px;
+    color: #abc7a3;
+    background-color: rgb(201, 136, 89);
     border-radius: 50px;
+    width: 500px;
+    height: 70px;
+    border-bottom: 10px solid;
 }
