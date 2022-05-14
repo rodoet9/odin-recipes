@@ -1,0 +1,59 @@
+body {
+    background-image: url('lasagna.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: black;
+    background-color: none;
+    width: 250px;
+    text-align: center;
+    border-bottom: 2px solid;
+    border-radius: 50px;
+    font-size: 40px;
+}
+
+img {
+    width: 500px;
+    height: 250px;
+    border-radius: 100px;
+
+}
+
+h2 {
+    font-size: 30px;
+    position: relative;
+    left: 80px;
+}
+
+p {
+    font-size: 20px;
+    position: relative;
+    left: 100px;
+    background-color: rgba(222, 240, 143, 0.6);
+    width: 1050px;
+}
+
+ul,
+ol {
+    font-size: 20px;
+    position: relative;
+    left: 100px;
+    background-color: rgba(222, 240, 143, 0.6);
+    width: 1000px;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    font-size: 30px;
+    color: whitesmoke;
+    background-color: black;
+    width: auto;
+}

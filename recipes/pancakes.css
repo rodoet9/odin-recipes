@@ -1,0 +1,87 @@
+body {
+    background-image: url('pancakes.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    color: black;
+    background-color: none;
+    width: 250px;
+    text-align: center;
+    border-bottom: 2px solid;
+    border-radius: 50px;
+    font-size: 40px;
+}
+
+img {
+    width: 500px;
+    height: 250px;
+    border-radius: 100px;
+    border-style: double;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+    position: relative;
+    left: 80px;
+}
+
+.fundalp {
+    width: 1050px;
+    height: 120px;
+    background-color: rgba(222, 240, 143, 0.6);
+    left: 80px;
+    position: relative;
+    border-radius: 50px;
+}
+
+p {
+    font-size: 20px;
+    left: 20px;
+    position: absolute;
+    text-align: left;
+    line-height: 1.4;
+}
+
+.fundalingr {
+    width: 1050px;
+    height: 200px;
+    background-color: rgba(222, 240, 143, 0.6);
+    left: 80px;
+    position: relative;
+    border-radius: 50px;
+}
+
+.fundalsteps {
+    width: 1050px;
+    height: 150px;
+    background-color: rgba(222, 240, 143, 0.6);
+    left: 80px;
+    position: relative;
+    border-radius: 50px;
+}
+
+ul,
+ol {
+    top: 20px;
+    font-size: 20px;
+    position: relative;
+    width: 1000px;
+    line-height: 1.4;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    font-size: 30px;
+    color: whitesmoke;
+    background-color: black;
+    width: auto;
+}
