@@ -1,5 +1,6 @@
 .fundal {
     background-image: url('food.png');
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .hometitle {
@@ -15,7 +16,7 @@
 }
 
 .space {
-    width: 70px;
+    width: auto;
     height: auto;
     display: inline-block;
 }
